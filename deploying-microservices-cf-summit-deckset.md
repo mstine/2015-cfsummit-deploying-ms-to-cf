@@ -192,6 +192,14 @@ applications:
 
 ---
 
+# Works on Lattice too!
+
+![inline](images/lattice.png)
+
+https://lattice.cf
+
+---
+
 # Config Server
 ![inline fit](images/Config_Server.png)
 
